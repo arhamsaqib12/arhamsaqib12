@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arhamsaqib12
-- 👀 I’m interested in 9th standard
+- 👀 I’m interested in collabrating with different developers
 - 🌱 I’m currently learning Fullstack web developement 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on frontend project 
 - 📫 How to reach me @arhamsaqib954.gmail.com
 
 <!---
